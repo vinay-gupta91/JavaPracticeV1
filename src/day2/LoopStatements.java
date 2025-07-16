@@ -5,9 +5,10 @@ public class LoopStatements {
 
 //   Program to print counting  1-10
 
+//
         int a= 1;
 //
-//        while(a<=10) {
+//        while(a<=10) {  
 //            System.out.println(a);
 //            a++;
 //        }

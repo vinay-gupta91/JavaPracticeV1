@@ -12,6 +12,5 @@ public class JumpStatement {
             System.out.println(b);
         }
 
-
     }
 }
